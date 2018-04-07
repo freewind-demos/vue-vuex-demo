@@ -1,5 +1,7 @@
-Vue Hello World Demo
-====================
+Vuex Demo
+=========
+
+TODO
 
 ```
 npm install
